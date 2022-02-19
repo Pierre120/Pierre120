@@ -1,5 +1,5 @@
 <div>
-<img src="https://tenor.com/view/cat-coding-gif-22257939" alt="Cat tapping a laptop"><br>
+<img src="https://c.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif" alt="Cat tapping a laptop"><br>
 <h1>Hi there, I'm Pierre Hernandez!</h1>
 </div>
 
