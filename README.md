@@ -1,12 +1,16 @@
 <!-- Link stylesheet -->
+<!--
 <link rel="stylesheet" type="text/css" media="all" href="./css/header.css" />
 
-<div class="header" style="text-align:center;">
+<div class="header">
     <img src="https://c.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif" alt="Cat tapping a laptop"><br>
     <div class="header">
         <h1 class="typewritten">Hi there, I'm Pierre Hernandez!</h1>
     </div>
 </div>
+-->
+<h1 align="center"><img src="https://c.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif" alt="Cat tapping a laptop">
+<br>Hi there, I'm Pierre Hernandez!</h1>
 
 ## About me
 - 📗 I'm a **second year student** at the ***[De La Salle University - Manila, Philippines]***.
