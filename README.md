@@ -9,8 +9,8 @@
 - 😮 Fun fact about me: I love learning new things 📖
 
 ### 📧 Feel free to contact me:
-- <a href="mailto:pierre_hernandez@dlsu.edu.ph">pierre_hernandez@dlsu.edu.ph</a></p>
-- <a href="www.linkedin.com/in/pierre-hernandez-b07048224">Pierre Hernandez</a>
+<p><a href="mailto:pierre_hernandez@dlsu.edu.ph"><img src="./images/gmail.png" width="26px">pierre_hernandez@dlsu.edu.ph</a></p>
+<p><a href="www.linkedin.com/in/pierre-hernandez-b07048224">Pierre Hernandez</a></p>
 
 
 
