@@ -9,8 +9,8 @@
 - 😮 Fun fact about me: I love learning new things 📖
 
 ### Feel free to contact me:
-- <img src="./images/gmail.png" width="18px"> GMail : <a href="mailto:pierre_hernandez@dlsu.edu.ph">pierre_hernandez@dlsu.edu.ph</a>
-- <img src="./images/linkedin.png" width="18px"> LinkedIn : <a href="www.linkedin.com/in/pierre-hernandez-b07048224" target="_blank">Pierre Hernandez</a>
+- [<img src="./images/gmail.png" width="18px">][pierre_hernandez@dlsu.edu.ph] GMail : [pierre_hernandez@dlsu.edu.ph]
+- [<img src="./images/linkedin.png" width="18px">][Pierre Hernandez] LinkedIn : [Pierre Hernandez]
 
 ### Languages and Tools:
 [<img src="./images/html5.png" alt="HTML" width="40px">][html]
@@ -36,6 +36,8 @@
 <!-- Links -->
 
 [De La Salle University - Manila, Philippines]: https://www.dlsu.edu.ph/
+[pierre_hernandez@dlsu.edu.ph]: mailto:pierre_hernandez@dlsu.edu.ph
+[Pierre Hernandez]: www.linkedin.com/in/pierre-hernandez-b07048224
 [html]: https://html.com/
 [css]: https://www.w3schools.com/Css/
 [javascript]: https://www.javascript.com/
