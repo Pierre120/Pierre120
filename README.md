@@ -13,24 +13,24 @@
 - <img src="./images/linkedin.png" width="18px"> LinkedIn : <a href="www.linkedin.com/in/pierre-hernandez-b07048224" target="_blank">Pierre Hernandez</a>
 
 ### Languages and Tools:
-<a href="https://html.com/" target="_blank" rel="noreferrer"><img src="./images/html5.png" alt="HTML" width="40px"></a>
-<a href="https://www.w3schools.com/Css/" target="_blank" rel="noreferrer"><img src="./images/css3.png"  alt="CSS" width="40px"></a>
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="./images/js.png" alt="Javascript" width="40px"></a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="./images/c.png" alt="C" width="40px"></a>
-<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="./images/java.png" alt="Java" width="40px"></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="./images/python.png" alt="Python" width="40px"></a>
-<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="./images/ruby.png" alt="Ruby" width="40px"></a>
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="./images/rust.png" alt="Rust" width="40px"></a>
-<a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="./images/matlablogo.png" alt="Matlab" width="40px"></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="./images/mysql.png" alt="MySQL" width="40px"></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="./images/mongodb.png" alt="MongoDB" width="40px"></a>
-<a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"><img src="./images/mongoose.png" alt="Mongoose" width="40px"></a>
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="./images/nodejs.png" alt="NodeJS" width="40px"></a>
-<a href="http://expressjs.com/" target="_blank" rel="noreferrer"><img src="./images/expressjs.png" alt="ExpressJS" width="40px"></a>
-<a href="https://handlebarsjs.com/" target="_blank" rel="noreferrer"><img src="./images/handlebarsjs.png" alt="HandlebarsJS" width="40px"></a>
-<a href="https://ejs.co/" target="_blank" rel="noreferrer"><img src="./images/ejs.png" alt="EJS" width="40px"></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="./images/git.png" alt="Git" width="40px"></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="./images/heroku.png" alt="Heroku" width="40px"></a>
+[<img src="./images/html5.png" alt="HTML" width="40px">][html]
+[<img src="./images/css3.png"  alt="CSS" width="40px">][css]
+[<img src="./images/js.png" alt="Javascript" width="40px">][javascript]
+[<img src="./images/c.png" alt="C" width="40px">][c]
+[<img src="./images/java.png" alt="Java" width="40px">][java]
+[<img src="./images/python.png" alt="Python" width="40px">][python]
+[<img src="./images/ruby.png" alt="Ruby" width="40px">][ruby]
+[<img src="./images/rust.png" alt="Rust" width="40px">][rust]
+[<img src="./images/matlablogo.png" alt="Matlab" width="40px">][matlab]
+[<img src="./images/mysql.png" alt="MySQL" width="40px">][mysql]
+[<img src="./images/mongodb.png" alt="MongoDB" width="40px">][mongodb]
+[<img src="./images/mongoose.png" alt="Mongoose" width="40px">][mongoose]
+[<img src="./images/nodejs.png" alt="NodeJS" width="40px">][nodejs]
+[<img src="./images/expressjs.png" alt="ExpressJS" width="40px">][expressjs]
+[<img src="./images/handlebarsjs.png" alt="HandlebarsJS" width="40px">][handlebars]
+[<img src="./images/ejs.png" alt="EJS" width="40px">][ejs]
+[<img src="./images/git.png" alt="Git" width="40px">][git]
+[<img src="./images/heroku.png" alt="Heroku" width="40px">][heroku]
 
 
 <!-- Links -->
