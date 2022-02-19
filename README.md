@@ -2,9 +2,9 @@
 <link rel="stylesheet" type="text/css" media="all" href="./css/header.css" />
 
 <div class="header">
-    <img src="https://c.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif" alt="Cat tapping a laptop"><br>
+    <img src="https://c.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif" alt="Cat tapping a laptop" align="center"><br>
     <div class="header">
-        <h1 class="typewritten">Hi there, I'm Pierre Hernandez!</h1>
+        <h1 class="typewritten" align="center">Hi there, I'm Pierre Hernandez!</h1>
     </div>
 </div>
 
