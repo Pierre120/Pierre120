@@ -28,7 +28,7 @@
     <a href="" target="_blank"><img src="./images/mongoose.png" alt="Mongoose" width="40px"></a>
     <a href="" target="_blank"><img src="./images/nodejs.png" alt="NodeJS" width="40px"></a>
     <a href="" target="_blank"><img src="./images/expressjs.png" alt="ExpressJS" width="40px"></a>
-    <a href="" target="_blank"><img src="./images/handlebarsjs" alt="HandlebarsJS" width="40px"></a>
+    <a href="" target="_blank"><img src="./images/handlebarsjs.png" alt="HandlebarsJS" width="40px"></a>
     <a href="" target="_blank"><img src="./images/ejs.png" alt="EJS" width="40px"></a>
     <a href="" target="_blank"><img src="./images/git.png" alt="Git" width="40px"></a>
     <a href="" target="_blank"><img src="./images/heroku.png" alt="Heroku" width="40px"></a>
