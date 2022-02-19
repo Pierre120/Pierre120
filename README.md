@@ -4,7 +4,7 @@
 </div>
 
 ## 😃 About me
-- 📗 I'm a **second year student** at the [De La Salle University - Manila, Philippines][https://www.google.com]
+- 📗 I'm a **second year student** at the [De La Salle University - Manila, Philippines]
 - I'm currently taking ***Bachelor of Science in Computer Science Major in Computer Systems Engineering***.
 
 <!--
@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[De La Salle University - Manila, Philippines]: https://www.dlsu.edu.ph/
