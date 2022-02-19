@@ -9,8 +9,8 @@
 - 😮 Fun fact about me: I love learning new things 📖
 
 ### Feel free to contact me:
-- <img src="./images/gmail.png" width="18px"> GMail : <a href="mailto:pierre_hernandez@dlsu.edu.ph">pierre_hernandez@dlsu.edu.ph</a>
-- <img src="./images/linkedin.png" width="18px"> LinkedIn : <a href="www.linkedin.com/in/pierre-hernandez-b07048224">Pierre Hernandez</a>
+- <img src="https://raw.githubusercontent.com/Pierre120/Pierre120/main/images/gmail.png" width="18px"> GMail : <a href="mailto:pierre_hernandez@dlsu.edu.ph">pierre_hernandez@dlsu.edu.ph</a>
+- <img src="https://raw.githubusercontent.com/Pierre120/Pierre120/main/images/linkedin.png" width="18px"> LinkedIn : <a href="www.linkedin.com/in/pierre-hernandez-b07048224">Pierre Hernandez</a>
 
 ### Languages and Tools 
 
