@@ -1,4 +1,11 @@
-### Hi there 👋
+<div>
+<img src="https://tenor.com/view/cat-coding-gif-22257939" alt="Cat tapping a laptop"><br>
+<h1>Hi there, I'm Pierre Hernandez!</h1>
+</div>
+
+## 😃 About me
+- I'm a second year student at 
+- I'm currently taking **Bachelor of Science in Computer Science Major in Computer Systems Engineering**.
 
 <!--
 **Pierre120/Pierre120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
