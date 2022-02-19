@@ -14,24 +14,24 @@
 
 ### Languages and Tools:
 <div>
-    <a href="" target="_blank"><img src="./images/html5.png" alt="HTML" width="40px"></a>
-    <a href="" target="_blank"><img src="./images/css3.png"  alt="CSS" width="40px"></a>
-    <a href="" target="_blank"><img src="./images/js.png" alt="Javascript" width="40px"></a>
-    <a href="" target="_blank"><img src="./images/c.png" alt="C" width="40px"></a>
-    <a href="" target="_blank"><img src="./images/java.png" alt="Java" width="40px"></a>
-    <a href="" target="_blank"><img src="./images/python.png" alt="Python" width="40px"></a>
-    <a href="" target="_blank"><img src="./images/ruby.png" alt="Ruby" width="40px"></a>
-    <a href="" target="_blank"><img src="./images/rust.png" alt="Rust" width="40px"></a>
-    <a href="" target="_blank"><img src="./images/matlablogo.png" alt="Matlab" width="40px"></a>
-    <a href="" target="_blank"><img src="./images/mysql.png" alt="MySQL" width="40px"></a>
-    <a href="" target="_blank"><img src="./images/mongodb.png" alt="MongoDB" width="40px"></a>
-    <a href="" target="_blank"><img src="./images/mongoose.png" alt="Mongoose" width="40px"></a>
-    <a href="" target="_blank"><img src="./images/nodejs.png" alt="NodeJS" width="40px"></a>
-    <a href="" target="_blank"><img src="./images/expressjs.png" alt="ExpressJS" width="40px"></a>
-    <a href="" target="_blank"><img src="./images/handlebarsjs.png" alt="HandlebarsJS" width="40px"></a>
-    <a href="" target="_blank"><img src="./images/ejs.png" alt="EJS" width="40px"></a>
-    <a href="" target="_blank"><img src="./images/git.png" alt="Git" width="40px"></a>
-    <a href="" target="_blank"><img src="./images/heroku.png" alt="Heroku" width="40px"></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="./images/html5.png" alt="HTML" width="40px"></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="./images/css3.png"  alt="CSS" width="40px"></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="./images/js.png" alt="Javascript" width="40px"></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="./images/c.png" alt="C" width="40px"></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="./images/java.png" alt="Java" width="40px"></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="./images/python.png" alt="Python" width="40px"></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="./images/ruby.png" alt="Ruby" width="40px"></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="./images/rust.png" alt="Rust" width="40px"></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="./images/matlablogo.png" alt="Matlab" width="40px"></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="./images/mysql.png" alt="MySQL" width="40px"></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="./images/mongodb.png" alt="MongoDB" width="40px"></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="./images/mongoose.png" alt="Mongoose" width="40px"></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="./images/nodejs.png" alt="NodeJS" width="40px"></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="./images/expressjs.png" alt="ExpressJS" width="40px"></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="./images/handlebarsjs.png" alt="HandlebarsJS" width="40px"></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="./images/ejs.png" alt="EJS" width="40px"></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="./images/git.png" alt="Git" width="40px"></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="./images/heroku.png" alt="Heroku" width="40px"></a>
 </div>
 
 <!-- Links -->
