@@ -4,8 +4,8 @@
 </div>
 
 ## 😃 About me
-- I'm a second year student at 
-- I'm currently taking **Bachelor of Science in Computer Science Major in Computer Systems Engineering**.
+- 📗 I'm a **second year student** at the [De La Salle University - Manila, Philippines][https://www.google.com]
+- I'm currently taking ***Bachelor of Science in Computer Science Major in Computer Systems Engineering***.
 
 <!--
 **Pierre120/Pierre120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
