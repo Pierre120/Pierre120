@@ -1,8 +1,11 @@
-(setq markdown-css-paths '("./css/header.css"))
+<!-- Link stylesheet -->
+<link rel="stylesheet" type="text/css" media="all" href="./css/header.css" />
 
-<div>
+<div class="header">
     <img src="https://c.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif" alt="Cat tapping a laptop"><br>
-    <h1>Hi there, I'm Pierre Hernandez!</h1>
+    <div class="header">
+        <h1 class="typewritten">Hi there, I'm Pierre Hernandez!</h1>
+    </div>
 </div>
 
 ## About me
