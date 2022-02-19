@@ -13,7 +13,7 @@
 <br>Hi there, I'm Pierre Hernandez!</h1>
 
 ## I'm a second year college student! 😁
-- 📗 I'm currently at ***[De La Salle University - Manila, Philippines]***.
+- 📗 I'm currently studying at ***[De La Salle University - Manila, Philippines]***.
 - 💻 I'm currently taking ***Bachelor of Science in Computer Science Major in Computer Systems Engineering***.
 - 😮 Fun fact about me: I love learning new things 📖
 
