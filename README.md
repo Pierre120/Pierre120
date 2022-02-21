@@ -3,7 +3,7 @@
 <br>Hi there, I'm Pierre Hernandez!</h1>
 -->
 <div align="center" width="100%">
-  <img width="510" src="./images/cat-coding.gif" alt="Cat tapping a laptop"><br>
+  <img width="520" src="./images/cat-coding.gif" alt="Cat tapping a laptop"><br>
   <img src="./svg/greetings.svg" alt="Greetings">
 </div>
 
