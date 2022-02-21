@@ -4,7 +4,7 @@
 -->
 <div align="center">
   <img src="./images/cat-coding.gif" alt="Cat tapping a laptop"><br>
-  <img width="500" height="26" src="./svg/greetings.svg" alt="Greetings">
+  <img width="500" height="27" src="./svg/greetings.svg" alt="Greetings">
 </div>
 
 ## I'm a second year college student! 😁
