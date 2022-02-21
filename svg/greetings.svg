@@ -1,6 +1,33 @@
-<svg fill="none" viewBox="0 0 498 205" width="498" height="205" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 600 50" width="600" height="50" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <style>
+        div {
+          text-align: center;
+        }
+
+        div > h1 {
+          font-family: 'Source Code Pro', monospace;
+          font-weight: 400;
+          font-size: 46px;
+          position: relative;
+          margin: 0 auto;
+          text-align: center;
+          white-space: nowrap;
+          overflow: hidden;
+          border-right: 2px solid rgba(0,0,0,.75);
+          animation: typewriter 2s steps(31) 2s normal both,
+                    blinkTextCursor 500ms steps(44) infinite normal;
+        }
+
+        @keyframes typewriter{
+          from { width: 0; }
+          to { width: 100%; }
+        }
+        
+        @keyframes blinkTextCursor{
+          from { border-right-color: rgba(0,0,0,.75); }
+          to { border-right-color: transparent; }
+        }
     </style>
     <div>
         <h1>Hi there, I'm Pierre Hernandez!</h1>
