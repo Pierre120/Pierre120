@@ -1,11 +1,11 @@
 <!--
+<img align="center" width="550" src="./images/cat-coding.gif" alt="Cat tapping a laptop"><br>
+<img align="center" src="./svg/greetings.svg" alt="Greetings" style="margin:10px auto">
+-->
 <div align="center" width="100%">
   <img width="550" src="./images/cat-coding.gif" alt="Cat tapping a laptop"><br>
   <img src="./svg/greetings.svg" alt="Greetings">
 </div>
--->
-<img align="center" width="550" src="./images/cat-coding.gif" alt="Cat tapping a laptop"><br>
-<img align="center" src="./svg/greetings.svg" alt="Greetings" style="margin:10px auto">
 
 ## I'm a second year college student! 😁
 - 📗 I'm currently studying at ***[De La Salle University - Manila, Philippines]***.
