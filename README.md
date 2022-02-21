@@ -2,7 +2,7 @@
 <h1 align="center"><img src="./images/cat-coding.gif" alt="Cat tapping a laptop">
 <br>Hi there, I'm Pierre Hernandez!</h1>
 -->
-<div align="center">
+<div align="center" width="100%">
   <img src="./images/cat-coding.gif" alt="Cat tapping a laptop"><br>
   <img width="500" height="28" src="./svg/greetings.svg" alt="Greetings">
 </div>
