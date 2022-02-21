@@ -13,7 +13,7 @@
 -->
 <div align="center">
   <img src="./images/cat-coding.gif" alt="Cat tapping a laptop"><br>
-  <img width="630" height="24" src="./svg/greetings.svg" alt="Greetings">
+  <img width="650" height="24" src="./svg/greetings.svg" alt="Greetings">
 </div>
 
 ## I'm a second year college student! 😁
