@@ -1,19 +1,10 @@
-<!-- Link stylesheet -->
 <!--
-<link rel="stylesheet" type="text/css" media="all" href="./css/header.css" />
-
-<div class="header">
-    <img src="https://c.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif" alt="Cat tapping a laptop"><br>
-    <div class="header">
-        <h1 class="typewritten">Hi there, I'm Pierre Hernandez!</h1>
-    </div>
-</div>
 <h1 align="center"><img src="./images/cat-coding.gif" alt="Cat tapping a laptop">
 <br>Hi there, I'm Pierre Hernandez!</h1>
 -->
 <div align="center">
   <img src="./images/cat-coding.gif" alt="Cat tapping a laptop"><br>
-  <img width="540" height="26" src="./svg/greetings.svg" alt="Greetings">
+  <img width="520" height="26" src="./svg/greetings.svg" alt="Greetings">
 </div>
 
 ## I'm a second year college student! 😁
