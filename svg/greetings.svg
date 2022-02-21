@@ -29,7 +29,7 @@
           to { border-right-color: transparent; }
         }
     </style>
-    <div>
+    <div xmlns="http://www.w3.org/1999/xhtml">
         <h1>Hi there, I'm Pierre Hernandez!</h1>
     </div>
   </foreignObject>
