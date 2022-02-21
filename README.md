@@ -1,11 +1,11 @@
 <!--
-<h1 align="center"><img src="./images/cat-coding.gif" alt="Cat tapping a laptop">
-<br>Hi there, I'm Pierre Hernandez!</h1>
--->
 <div align="center" width="100%">
   <img width="550" src="./images/cat-coding.gif" alt="Cat tapping a laptop"><br>
   <img src="./svg/greetings.svg" alt="Greetings">
 </div>
+-->
+<img align="center" width="550" src="./images/cat-coding.gif" alt="Cat tapping a laptop"><br>
+<img align="center" src="./svg/greetings.svg" alt="Greetings" style="margin-top:10px">
 
 ## I'm a second year college student! 😁
 - 📗 I'm currently studying at ***[De La Salle University - Manila, Philippines]***.
@@ -18,7 +18,7 @@
 
 ### Languages and Tools:
 [<img src="./images/html5.png" alt="HTML" width="40px">][html]
-[<img src="./images/css3.png"  alt="CSS" width="40px">][css]
+[<img src="./images/css3.png" alt="CSS" width="40px">][css]
 [<img src="./images/js.png" alt="Javascript" width="40px">][javascript]
 [<img src="./images/c.png" alt="C" width="40px">][c]
 [<img src="./images/java.png" alt="Java" width="40px">][java]
