@@ -8,9 +8,13 @@
         <h1 class="typewritten">Hi there, I'm Pierre Hernandez!</h1>
     </div>
 </div>
--->
 <h1 align="center"><img src="./images/cat-coding.gif" alt="Cat tapping a laptop">
 <br>Hi there, I'm Pierre Hernandez!</h1>
+-->
+<div align="center">
+  <img src="./images/cat-coding.gif" alt="Cat tapping a laptop"><br>
+  <img width="600" height="50" src="./svg/greetings.svg" alt="Greetings">
+</div>
 
 ## I'm a second year college student! 😁
 - 📗 I'm currently studying at ***[De La Salle University - Manila, Philippines]***.
