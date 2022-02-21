@@ -9,7 +9,7 @@
     </div>
 </div>
 -->
-<h1 align="center"><img src="https://c.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif" alt="Cat tapping a laptop">
+<h1 align="center"><img src="./images/cat-coding.gif" alt="Cat tapping a laptop">
 <br>Hi there, I'm Pierre Hernandez!</h1>
 
 ## I'm a second year college student! 😁
