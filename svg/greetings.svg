@@ -3,6 +3,8 @@
     <style>
         div {
           text-align: center;
+          margin: auto;
+          padding: 0;
         }
 
         div > h1 {
