@@ -41,7 +41,7 @@
 
 [De La Salle University - Manila, Philippines]: https://www.dlsu.edu.ph/
 [pierre_hernandez@dlsu.edu.ph]: mailto:pierre_hernandez@dlsu.edu.ph
-[Pierre Hernandez]: www.linkedin.com/in/pierre-hernandez/
+[Pierre Hernandez]: https://www.linkedin.com/in/pierre-hernandez/
 [html]: https://html.com/
 [css]: https://www.w3schools.com/Css/
 [javascript]: https://www.javascript.com/
