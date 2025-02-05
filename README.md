@@ -7,9 +7,9 @@
   <img src="./svg/greetings.svg" alt="Greetings">
 </div>
 
-## I'm a fourth year college student! 😁
+## I'm a graduating college student! 😁
 - 📗 I'm currently studying at ***[De La Salle University - Manila, Philippines]***.
-- 💻 I'm taking up ***Bachelor of Science in Computer Science Major in Computer Systems Engineering***.
+- 💻 I'm taking up ***Bachelor of Science in Computer Science, Major in Computer Systems Engineering***.
 - 😮 Fun fact about me: I love learning new things 📖
 
 ### Feel free to contact me:
